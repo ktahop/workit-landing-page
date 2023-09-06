@@ -130,7 +130,7 @@ header a:hover {
 
 .hero-img {
   display: block;
-  max-width: 40%;
+  width: 800px;
   margin: 70px auto;
 
 }
